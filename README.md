@@ -60,21 +60,6 @@ Nous utilisons le jeu de données **“Hyundai Used Car Listing”** disponible 
 
 ---
 
-## Arborescence du projet
-
-| Répertoire / Fichier | Description |
-|---------------------|-------------|
-| `app/` | Scripts et fichiers Shiny pour l’interface interactive |
-| `data/` | Jeu de données brut et prétraité |
-| `scripts/` | Scripts R pour analyse et visualisations |
-| `scripts/analysis.R` | Script principal pour statistiques descriptives et graphiques |
-| `scripts/price_estimation.R` | Modèle de régression linéaire pour prédiction des prix |
-| `README.md` | Documentation du projet |
-
----
-
-## Exemples d’utilisation
-
 ### Lancer l’application Shiny
 
 ```R
