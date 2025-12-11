@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: guacapaul
+account: guacapaul
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13100888
+bundleId: 9257042
+url: https://guacapaul.shinyapps.io/shiny/
+version: 1
