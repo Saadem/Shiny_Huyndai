@@ -8,7 +8,7 @@
 ---
 
 ## Aperçu du projet
-
+![model1](www/logo.png)
 Cette application **Shiny** fournit une interface interactive pour analyser les tendances et facteurs influençant le prix des voitures d’occasion Hyundai.  
 
 Elle permet de :  
@@ -22,8 +22,7 @@ Elle permet de :
 
 ## Jeu de données
 
-Nous utilisons le jeu de données **“Hyundai Used Car Listing”** disponible sur Kaggle :  
-[→ Accéder au dataset](https://www.kaggle.com/datasets/mysarahmadbhat/hyundai-used-car-listing)
+Nous utilisons le jeu de données **“Hyundai Used Car Listing”** disponible sur Kaggle :  [→ Accéder au dataset](https://www.kaggle.com/datasets/mysarahmadbhat/hyundai-used-car-listing)
 
 - **Observations :** 4860 voitures  
 - **Variables principales :**  
